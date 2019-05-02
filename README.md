@@ -1,3 +1,7 @@
+## Projeto OmniStack - Frontend
+
+Projeto de armazenamento de arquivos (semelhante ao Dropbox) desenvolvido a partir do curso *Semana OmniStack* da [Rocketseat](https://rocketseat.com.br/), utilizando as tecnologias Node.js, React e React Native.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
